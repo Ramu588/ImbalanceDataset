@@ -6,7 +6,9 @@ Handling Imbalance Data Set Using SMOTE and Under Sampling
 ![image](https://user-images.githubusercontent.com/95002965/159402027-bfef4c27-a187-4072-842a-acc15cae2760.png)
 
 When we have an imbalanced dataset and if we build a machine learning model over imbalanced data, then there is a high chance of getting misclassification i.e incorrect classification. The machine learning model gets biased and gives inaccurate results.
+
 Resampling is one of the most popular techniques to handle an imbalanced dataset. The main objective of resampling is to balance the dataset either by increasing the frequency of the minority class or by decreasing the frequency of the majority class.
+
 1.Under Sampling
 Under Sampling is used to decrease the majority class by randomly eliminating the majority class. This is done until majority and minority class instances are balanced out.
 
